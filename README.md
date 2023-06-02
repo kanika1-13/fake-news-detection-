@@ -1,4 +1,5 @@
 # fake-news-detection-
+The site works on all devices but only works if your jupyter model is working on your own device.
 This is a project for fake news detection and contains the website's code. This machine-learning project determines whether a news article is fake or real. I have created the machine learning model on the jupyter notebook, and the website has been created using anvil uplink, an online cloud-based service. The machine learning models used in the project are -
 
 The methodologies used are Classification and regression. 
